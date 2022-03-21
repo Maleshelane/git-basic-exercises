@@ -1,0 +1,25 @@
+00:00:01.386486 VirtualBox GUI VM Selector Window 6.1.28 r147628 win.amd64 (Oct 18 2021 18:49:03) release log
+00:00:01.386489 Log opened 2021-11-04T14:03:54.520905000Z
+00:00:01.386489 Build Type: release
+00:00:01.386493 OS Product: Windows 10
+00:00:01.386494 OS Release: 10.0.19042
+00:00:01.386495 OS Service Pack: 
+00:00:01.407347 DMI Product Name: Latitude 7390
+00:00:01.412656 DMI Product Version: 
+00:00:01.412691 Firmware type: UEFI
+00:00:01.413038 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:01.413070 Host RAM: 8072MB (7.8GB) total, 3195MB (3.1GB) available
+00:00:01.413076 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.413077 Process ID: 16832
+00:00:01.413077 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.413259 Qt version: 5.6.2
+00:00:01.458099 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.628828 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:02.672112 refreshCertificates/#3: Found 1/116 SSL certs we/you trust (previously 0/0).
+00:02:32.931891 GUI: UIMediumEnumerator: Medium with key={{ca81e174-f08c-4545-ac4f-7a242df8cebd}} created
+00:02:33.264403 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:03.134849 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:25.075467 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:30.970351 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:46.932183 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:03.119802 GUI: UICommon::sltHandleCommitDataRequest: Emergency shutdown initiated

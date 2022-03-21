@@ -1,0 +1,73 @@
+00:00:00.007388 main     VirtualBox COM Server 6.1.28 r147628 win.amd64 (Oct 18 2021 18:49:03) release log
+00:00:00.007417 main     Log opened 2021-11-04T14:03:53.931241700Z
+00:00:00.007419 main     Build Type: release
+00:00:00.007473 main     OS Product: Windows 10
+00:00:00.007475 main     OS Release: 10.0.19042
+00:00:00.007476 main     OS Service Pack: 
+00:00:00.050963 main     DMI Product Name: Latitude 7390
+00:00:00.074368 main     DMI Product Version: 
+00:00:00.074413 main     Firmware type: UEFI
+00:00:00.074950 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.075119 main     Host RAM: 8072MB (7.8GB) total, 3218MB (3.1GB) available
+00:00:00.075149 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.075151 main     Process ID: 3704
+00:00:00.075152 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.279108          VirtualBox: object creation starts
+00:00:00.279643          Home directory: 'C:\Users\Home PC\.VirtualBox'
+00:00:00.279809          Installed Drivers:
+00:00:00.289462            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.28.47628)
+00:00:00.289957            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.28.47628)
+00:00:00.290451            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.28.47628)
+00:00:00.290937            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.28.47628)
+00:00:00.295777          usbLibGetDevices: Starting USB device enumeration
+00:00:00.324187          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&49a7824&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.324450          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&49a7824&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:00:00.324633          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&49a7824&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.324766          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&49a7824&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:00:00.329494          usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:00.329922          USB: Unknown USB device detected (idVendor: 0x0a5c, idProduct: 0x5834)
+00:00:00.330266          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0x5650)
+00:00:00.330401          USB: Unknown USB device detected (idVendor: 0x413c, idProduct: 0x81b6)
+00:00:00.330430          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0a2b)
+00:00:00.427344          HostDnsMonitor: initializing
+00:00:00.446940          HostDnsMonitor: updating information
+00:00:00.447034          HostDnsMonitor: old information
+00:00:00.447035            no server entries
+00:00:00.447037            no domain set
+00:00:00.447037            no search string entries
+00:00:00.447038          HostDnsMonitor: new information
+00:00:00.447038            server 1: 192.168.8.1
+00:00:00.447040            no domain set
+00:00:00.447040            no search string entries
+00:00:00.556495          VD: VDInit finished with VINF_SUCCESS
+00:00:00.559092          VirtualBox: object created
+00:00:03.603577          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:03.621305          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:31.602858 createBase Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:32.210062          Saving settings file "C:\Users\Home PC\VirtualBox VMs\Xubuntu\Xubuntu.vbox" with version "1.16-windows"
+00:02:32.230153          Saving settings file "C:\Users\Home PC\VirtualBox VMs\Xubuntu\Xubuntu.vbox" with version "1.16-windows"
+00:02:32.240390          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:32.274341          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:32.287972          Saving settings file "C:\Users\Home PC\VirtualBox VMs\Xubuntu\Xubuntu.vbox" with version "1.16-windows"
+00:03:00.654617          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:00.659045          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:00.663866          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:00.672695          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:00.678601          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:02.253660          Saving settings file "C:\Users\Home PC\VirtualBox VMs\Xubuntu\Xubuntu.vbox" with version "1.16-windows"
+00:08:24.220061          Saving settings file "C:\Users\Home PC\VirtualBox VMs\Xubuntu\Xubuntu.vbox" with version "1.16-windows"
+00:10:30.094954          Saving settings file "C:\Users\Home PC\VirtualBox VMs\Xubuntu\Xubuntu.vbox" with version "1.16-windows"
+00:14:06.344057 dns-monitor HostDnsMonitor: updating information
+00:14:06.344125 dns-monitor HostDnsMonitor: unchanged
+00:14:45.999483          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:14:46.014872          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:14:46.047471          Saving settings file "C:\Users\Home PC\VirtualBox VMs\Xubuntu\Xubuntu.vbox" with version "1.16-windows"
+00:14:46.060107          Saving settings file "C:\Users\Home PC\VirtualBox VMs\Xubuntu\Xubuntu.vbox" with version "1.16-windows"
+00:15:02.350728          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:02.378755          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:02.449423          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:02.463042          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:02.474176          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:02.516259          Saving settings file "C:\Users\Home PC\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:15:03.139463 main     VirtualBox: object deletion starts
+00:15:03.139517 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Home PC\VirtualBox VMs\Xubuntu\Xubuntu.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
