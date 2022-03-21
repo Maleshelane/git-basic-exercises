@@ -267,3 +267,5 @@ npm install --save-dev eslint
 git checkout main
 git log
 exit
+cd git-basic-exercises
+cd
